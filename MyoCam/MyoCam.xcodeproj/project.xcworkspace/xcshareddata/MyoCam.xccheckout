@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CFA33F1-5E59-4E1F-A62C-02DDA7484ACB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyoCam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFD1337E-734B-4953-AC86-4C66A5EEB13B</key>
+		<string>https://github.com/HIT-team/YCHacks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyoCam/MyoCam.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFD1337E-734B-4953-AC86-4C66A5EEB13B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HIT-team/YCHacks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFD1337E-734B-4953-AC86-4C66A5EEB13B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFD1337E-734B-4953-AC86-4C66A5EEB13B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YCHacks</string>
+		</dict>
+	</array>
+</dict>
+</plist>

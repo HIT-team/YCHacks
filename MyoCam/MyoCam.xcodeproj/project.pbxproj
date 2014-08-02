@@ -1,0 +1,481 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4C2C1882198DA60F0059D94E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2C1881198DA60F0059D94E /* Cocoa.framework */; };
+		4C2C188C198DA60F0059D94E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C188A198DA60F0059D94E /* InfoPlist.strings */; };
+		4C2C188E198DA60F0059D94E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C188D198DA60F0059D94E /* main.m */; };
+		4C2C1892198DA60F0059D94E /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C1890198DA60F0059D94E /* Credits.rtf */; };
+		4C2C1895198DA60F0059D94E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C1894198DA60F0059D94E /* AppDelegate.m */; };
+		4C2C1898198DA60F0059D94E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C1896198DA60F0059D94E /* MainMenu.xib */; };
+		4C2C189A198DA60F0059D94E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C1899198DA60F0059D94E /* Images.xcassets */; };
+		4C2C18A1198DA60F0059D94E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2C18A0198DA60F0059D94E /* XCTest.framework */; };
+		4C2C18A2198DA60F0059D94E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2C1881198DA60F0059D94E /* Cocoa.framework */; };
+		4C2C18AA198DA60F0059D94E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C18A8198DA60F0059D94E /* InfoPlist.strings */; };
+		4C2C18AC198DA60F0059D94E /* MyoCamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C18AB198DA60F0059D94E /* MyoCamTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4C2C18A3198DA60F0059D94E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4C2C1876198DA60F0059D94E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4C2C187D198DA60F0059D94E;
+			remoteInfo = MyoCam;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4C2C187E198DA60F0059D94E /* MyoCam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyoCam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C2C1881198DA60F0059D94E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		4C2C1884198DA60F0059D94E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		4C2C1885198DA60F0059D94E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		4C2C1886198DA60F0059D94E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4C2C1889198DA60F0059D94E /* MyoCam-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyoCam-Info.plist"; sourceTree = "<group>"; };
+		4C2C188B198DA60F0059D94E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4C2C188D198DA60F0059D94E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4C2C188F198DA60F0059D94E /* MyoCam-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyoCam-Prefix.pch"; sourceTree = "<group>"; };
+		4C2C1891198DA60F0059D94E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		4C2C1893198DA60F0059D94E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4C2C1894198DA60F0059D94E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4C2C1897198DA60F0059D94E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		4C2C1899198DA60F0059D94E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		4C2C189F198DA60F0059D94E /* MyoCamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyoCamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C2C18A0198DA60F0059D94E /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		4C2C18A7198DA60F0059D94E /* MyoCamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyoCamTests-Info.plist"; sourceTree = "<group>"; };
+		4C2C18A9198DA60F0059D94E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4C2C18AB198DA60F0059D94E /* MyoCamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyoCamTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4C2C187B198DA60F0059D94E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C1882198DA60F0059D94E /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4C2C189C198DA60F0059D94E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C18A2198DA60F0059D94E /* Cocoa.framework in Frameworks */,
+				4C2C18A1198DA60F0059D94E /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4C2C1875198DA60F0059D94E = {
+			isa = PBXGroup;
+			children = (
+				4C2C1887198DA60F0059D94E /* MyoCam */,
+				4C2C18A5198DA60F0059D94E /* MyoCamTests */,
+				4C2C1880198DA60F0059D94E /* Frameworks */,
+				4C2C187F198DA60F0059D94E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4C2C187F198DA60F0059D94E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C187E198DA60F0059D94E /* MyoCam.app */,
+				4C2C189F198DA60F0059D94E /* MyoCamTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4C2C1880198DA60F0059D94E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C1881198DA60F0059D94E /* Cocoa.framework */,
+				4C2C18A0198DA60F0059D94E /* XCTest.framework */,
+				4C2C1883198DA60F0059D94E /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4C2C1883198DA60F0059D94E /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C1884198DA60F0059D94E /* AppKit.framework */,
+				4C2C1885198DA60F0059D94E /* CoreData.framework */,
+				4C2C1886198DA60F0059D94E /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		4C2C1887198DA60F0059D94E /* MyoCam */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C1893198DA60F0059D94E /* AppDelegate.h */,
+				4C2C1894198DA60F0059D94E /* AppDelegate.m */,
+				4C2C1896198DA60F0059D94E /* MainMenu.xib */,
+				4C2C1899198DA60F0059D94E /* Images.xcassets */,
+				4C2C1888198DA60F0059D94E /* Supporting Files */,
+			);
+			path = MyoCam;
+			sourceTree = "<group>";
+		};
+		4C2C1888198DA60F0059D94E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C1889198DA60F0059D94E /* MyoCam-Info.plist */,
+				4C2C188A198DA60F0059D94E /* InfoPlist.strings */,
+				4C2C188D198DA60F0059D94E /* main.m */,
+				4C2C188F198DA60F0059D94E /* MyoCam-Prefix.pch */,
+				4C2C1890198DA60F0059D94E /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4C2C18A5198DA60F0059D94E /* MyoCamTests */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C18AB198DA60F0059D94E /* MyoCamTests.m */,
+				4C2C18A6198DA60F0059D94E /* Supporting Files */,
+			);
+			path = MyoCamTests;
+			sourceTree = "<group>";
+		};
+		4C2C18A6198DA60F0059D94E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4C2C18A7198DA60F0059D94E /* MyoCamTests-Info.plist */,
+				4C2C18A8198DA60F0059D94E /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4C2C187D198DA60F0059D94E /* MyoCam */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4C2C18AF198DA60F0059D94E /* Build configuration list for PBXNativeTarget "MyoCam" */;
+			buildPhases = (
+				4C2C187A198DA60F0059D94E /* Sources */,
+				4C2C187B198DA60F0059D94E /* Frameworks */,
+				4C2C187C198DA60F0059D94E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyoCam;
+			productName = MyoCam;
+			productReference = 4C2C187E198DA60F0059D94E /* MyoCam.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4C2C189E198DA60F0059D94E /* MyoCamTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4C2C18B2198DA60F0059D94E /* Build configuration list for PBXNativeTarget "MyoCamTests" */;
+			buildPhases = (
+				4C2C189B198DA60F0059D94E /* Sources */,
+				4C2C189C198DA60F0059D94E /* Frameworks */,
+				4C2C189D198DA60F0059D94E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4C2C18A4198DA60F0059D94E /* PBXTargetDependency */,
+			);
+			name = MyoCamTests;
+			productName = MyoCamTests;
+			productReference = 4C2C189F198DA60F0059D94E /* MyoCamTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4C2C1876198DA60F0059D94E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = HITapp;
+				TargetAttributes = {
+					4C2C189E198DA60F0059D94E = {
+						TestTargetID = 4C2C187D198DA60F0059D94E;
+					};
+				};
+			};
+			buildConfigurationList = 4C2C1879198DA60F0059D94E /* Build configuration list for PBXProject "MyoCam" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4C2C1875198DA60F0059D94E;
+			productRefGroup = 4C2C187F198DA60F0059D94E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4C2C187D198DA60F0059D94E /* MyoCam */,
+				4C2C189E198DA60F0059D94E /* MyoCamTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4C2C187C198DA60F0059D94E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C188C198DA60F0059D94E /* InfoPlist.strings in Resources */,
+				4C2C189A198DA60F0059D94E /* Images.xcassets in Resources */,
+				4C2C1892198DA60F0059D94E /* Credits.rtf in Resources */,
+				4C2C1898198DA60F0059D94E /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4C2C189D198DA60F0059D94E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C18AA198DA60F0059D94E /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4C2C187A198DA60F0059D94E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C1895198DA60F0059D94E /* AppDelegate.m in Sources */,
+				4C2C188E198DA60F0059D94E /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4C2C189B198DA60F0059D94E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C2C18AC198DA60F0059D94E /* MyoCamTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4C2C18A4198DA60F0059D94E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4C2C187D198DA60F0059D94E /* MyoCam */;
+			targetProxy = 4C2C18A3198DA60F0059D94E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4C2C188A198DA60F0059D94E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4C2C188B198DA60F0059D94E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4C2C1890198DA60F0059D94E /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4C2C1891198DA60F0059D94E /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		4C2C1896198DA60F0059D94E /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4C2C1897198DA60F0059D94E /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		4C2C18A8198DA60F0059D94E /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4C2C18A9198DA60F0059D94E /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4C2C18AD198DA60F0059D94E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		4C2C18AE198DA60F0059D94E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		4C2C18B0198DA60F0059D94E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyoCam/MyoCam-Prefix.pch";
+				INFOPLIST_FILE = "MyoCam/MyoCam-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4C2C18B1198DA60F0059D94E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyoCam/MyoCam-Prefix.pch";
+				INFOPLIST_FILE = "MyoCam/MyoCam-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		4C2C18B3198DA60F0059D94E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MyoCam.app/Contents/MacOS/MyoCam";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyoCam/MyoCam-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "MyoCamTests/MyoCamTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		4C2C18B4198DA60F0059D94E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MyoCam.app/Contents/MacOS/MyoCam";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyoCam/MyoCam-Prefix.pch";
+				INFOPLIST_FILE = "MyoCamTests/MyoCamTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4C2C1879198DA60F0059D94E /* Build configuration list for PBXProject "MyoCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4C2C18AD198DA60F0059D94E /* Debug */,
+				4C2C18AE198DA60F0059D94E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4C2C18AF198DA60F0059D94E /* Build configuration list for PBXNativeTarget "MyoCam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4C2C18B0198DA60F0059D94E /* Debug */,
+				4C2C18B1198DA60F0059D94E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4C2C18B2198DA60F0059D94E /* Build configuration list for PBXNativeTarget "MyoCamTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4C2C18B3198DA60F0059D94E /* Debug */,
+				4C2C18B4198DA60F0059D94E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4C2C1876198DA60F0059D94E /* Project object */;
+}
