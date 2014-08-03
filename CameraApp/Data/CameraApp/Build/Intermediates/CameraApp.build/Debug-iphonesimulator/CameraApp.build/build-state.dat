@@ -1,391 +1,0 @@
-TCameraApp
-v6
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist
-cProcessPCH /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch CameraApp/CameraApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp normal x86_64
-cGenerateDSYMFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp
-cCopyStringsFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings CameraApp/en.lproj/InfoPlist.strings
-cCpResource CameraApp/Default.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png
-cCpResource CameraApp/Default@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png
-cCpResource CameraApp/Default-568h@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png
-cCompileXIB /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib
-cTouch /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c0000000053A285C600000000000003B4
-t1403160006
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053A285D2000000000000019E
-t1403160018
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000053A285D70000000000446820
-t1403160023
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000053A285DB000000000088D8C0
-t1403160027
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000053A285E50000000001F1DE10
-t1403160037
-s32628240
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m
-c00000000516551090000000000000918
-t1365594377
-s2328
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m
-c00000000516D47C400000000000008B6
-t1366116292
-s2230
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist
-c00000000516551090000000000000490
-t1365594377
-s1168
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Prefix.pch
-c00000000516551090000000000000141
-t1365594377
-s321
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default-568h@2x.png
-c0000000050748B2300000000000048A2
-t1349815075
-s18594
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default.png
-c0000000050748B23000000000000198C
-t1349815075
-s6540
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default@2x.png
-c0000000050748B230000000000003EEB
-t1349815075
-s16107
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib
-c00000000516D397A00000000000031A9
-t1366112634
-s12713
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/InfoPlist.strings
-c0000000051655109000000000000002D
-t1365594377
-s45
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m
-c0000000051655109000000000000015D
-t1365594377
-s349
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o
-t1407044289
-s72320
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o
-t1407044289
-s66660
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/CameraApp.LinkFileList
-c0000000053DDCAC000000000000001F1
-t1407044288
-s497
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o
-t1407044289
-s3368
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch
-t1407044289
-s5384032
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app
-t1407044290
-s306
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM
-t2
-s0
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp
-t1407044290
-s28140
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png
-t1407044290
-s18594
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png
-t1407044290
-s6540
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png
-t1407044290
-s16107
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist
-t1407044288
-s788
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/PkgInfo
-t1407044288
-s8
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/APPViewController.nib
-t1407044292
-s2218
-
-N/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings
-t1407044290
-s42
-
-CBuild AST from /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m
-r0
-
-CBuild AST from /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m
-r0
-
-CBuild AST from /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesae0fbb40028eb941^4ed3c340028eb941^---0#1#1#--18"Check dependencies36"04B68F6C-A84F-434F-B537-C803C13C59DC-
-
-CCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s428737089.523134
-e428737089.738686
-r1
-xCompileC
-xData/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o
-x/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.h
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m233"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o CameraApp/APPAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf0c8641028eb941^931bbd41028eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m0000000000000000^3775"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o CameraApp/APPAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator -include /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.dia -c /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.m -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o36"484A4022-419B-40E9-A8F5-394B9A3B91C7-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s428737089.523727
-e428737089.765013
-r1
-xCompileC
-xData/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o
-x/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m239"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o CameraApp/APPViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerce378641028eb941^f1d8c341028eb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m0000000000000000^3793"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o CameraApp/APPViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator -include /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.dia -c /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPViewController.m -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o36"60F354A2-B27E-45B7-871E-8EE1F9B3EDE9-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s428737089.522597
-e428737089.736164
-r1
-xCompileC
-xData/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o
-x/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/APPAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m213"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o CameraApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7f38541028eb941^8275bc41028eb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m0000000000000000^3715"CompileC Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o CameraApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator -include /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.dia -c /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/main.m -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o36"E2A3EEE0-06EE-4891-9FE7-B107299BD7D9-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCompileXIB /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib
-s428737090.144023
-e428737094.070787
-r1
-xCompileXIB
-x/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib
-o2014-08-02 22:38:12.127 Interface Builder Cocoa Touch Tool[21979:303] CFPreferences: user home directory at file:///Users/Prachi/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compiling /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib51"CompileXIB CameraApp/en.lproj/APPViewController.xibdbfb2442028eb941^ea211246028eb941^-231"2014-08-02 22:38:12.127 Interface Builder Cocoa Touch Tool[21979:303] CFPreferences: user home directory at file:///Users/Prachi/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib0000000000000000^817"CompileXIB CameraApp/en.lproj/APPViewController.xib    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/APPViewController.nib /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/APPViewController.xib36"20C2C51D-DC41-42B0-BF76-C875D44E3231-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCopyStringsFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings CameraApp/en.lproj/InfoPlist.strings
-s428737090.138218
-e428737090.143721
-r1
-xCopyStringsFile
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings
-xCameraApp/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy CameraApp/en.lproj/InfoPlist.strings145"CopyStringsFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings CameraApp/en.lproj/InfoPlist.strings73812342028eb941^b8cd2442028eb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/en.lproj/InfoPlist.strings0000000000000000^633"CopyStringsFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj/InfoPlist.strings CameraApp/en.lproj/InfoPlist.strings    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/en.lproj -- CameraApp/en.lproj/InfoPlist.strings36"43CD8CEB-7EBE-4E88-8606-04F1D3E17F34-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCpResource CameraApp/Default-568h@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png
-s428737090.142411
-e428737090.148827
-r1
-xCpResource
-xCameraApp/Default-568h@2x.png
-xData/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png126"CpResource CameraApp/Default-568h@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.pngf38d2442028eb941^062b2642028eb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png00346c75dfffdf42^657"CpResource CameraApp/Default-568h@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default-568h@2x.png    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default-568h@2x.png /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app36"0CD68C4A-964D-4C63-B4F7-DA78452040E1-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCpResource CameraApp/Default.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png
-s428737090.140195
-e428737090.143939
-r1
-xCpResource
-xCameraApp/Default.png
-xData/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png110"CpResource CameraApp/Default.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.pnga3012442028eb941^f3912442028eb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png00346c75dfffdf42^633"CpResource CameraApp/Default.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default.png    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default.png /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app36"901708CE-6845-4E54-8FDE-1E1B04B99315-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CCpResource CameraApp/Default@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png
-s428737090.142105
-e428737090.146019
-r1
-xCpResource
-xCameraApp/Default@2x.png
-xData/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png116"CpResource CameraApp/Default@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.pngc37d2442028eb941^467a2542028eb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png00346c75dfffdf42^642"CpResource CameraApp/Default@2x.png Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Default@2x.png    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/Default@2x.png /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app36"B979D784-A05C-4940-AC9E-EADB84963255-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CGenerateDSYMFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp
-s428737090.094219
-e428737090.137497
-r1
-xGenerateDSYMFile
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM163"GenerateDSYMFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp7b311842028eb941^d0f02242028eb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM00346c75dfffdf42^736"GenerateDSYMFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app.dSYM36"1E9CFDD9-79C5-4634-8F70-EE937F266B00-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CLd /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp normal x86_64
-s428737089.766444
-e428737090.093069
-r1
-xLd
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp
-xnormal
-xx86_64
-d/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/CameraApp.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/main.o
-d/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPAppDelegate.o
-d/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/APPViewController.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libsystem_stats.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp92"Ld Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp normal x86_644549c441028eb941^d0d41742028eb941^---0#0#1#--1513"Ld Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp normal x86_64    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export IPHONEOS_DEPLOYMENT_TARGET=6.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator -F/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator -filelist /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/CameraApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/Objects-normal/x86_64/CameraApp_dependency_info.dat -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/CameraApp36"6C6E21DE-925A-40BC-B191-1D8A949D0B0F-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CProcessInfoPlistFile /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist
-s428737088.765851
-e428737088.769644
-r1
-xProcessInfoPlistFile
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist
-x/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist128"ProcessInfoPlistFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist CameraApp/CameraApp-Info.plista130c440028eb941^151cc640028eb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist0000000000000000^779"ProcessInfoPlistFile Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist CameraApp/CameraApp-Info.plist    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Info.plist -genpkginfo /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app/Info.plist36"24549B01-E010-4F3B-8E6F-84CBA7C04A67-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CProcessPCH /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch CameraApp/CameraApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s428737088.770730
-e428737089.521694
-r1
-xProcessPCH
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch
-xCameraApp/CameraApp-Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile CameraApp/CameraApp-Prefix.pch236"ProcessPCH Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch CameraApp/CameraApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler207bc540028eb941^3f8f8541028eb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Prefix.pch0000000000000000^3606"ProcessPCH Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch CameraApp/CameraApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/CameraApp-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/CameraApp.build/Debug-iphonesimulator/CameraApp.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.d -c /Users/Prachi/Desktop/YCHacks/CameraApp/CameraApp/CameraApp-Prefix.pch -o /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Intermediates/PrecompiledHeaders/CameraApp-Prefix-favatotjxhrzqycbalaukpaqrmlr/CameraApp-Prefix.pch.pch36"9EC4B680-114B-44E2-B262-E3D9008C76C3-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-
-CProcessPCH /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Index/PrecompiledHeaders/CameraApp-Prefix-effvvwnyaeuzebfxxjkhalbtjmjq_ast/CameraApp-Prefix.pch.pch CameraApp/CameraApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app
-s428737094.071722
-e428737094.079692
-r1
-xTouch
-x/Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app71"Touch Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app69711246028eb941^34681446028eb941^---0#0#1#--442"Touch Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app    cd /Users/Prachi/Desktop/YCHacks/CameraApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Prachi/Desktop/YCHacks/CameraApp/Data/CameraApp/Build/Products/Debug-iphonesimulator/CameraApp.app36"68D9010C-DD73-4826-96EB-4EEF0855A555-
-bE01FD13F-3EC4-4054-9E30-F976CAD662F3
-

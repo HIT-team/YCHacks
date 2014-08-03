@@ -18,6 +18,7 @@
 		35791CD5171588890011FD1F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 35791CD4171588890011FD1F /* Default-568h@2x.png */; };
 		35791CD8171588890011FD1F /* APPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35791CD7171588890011FD1F /* APPViewController.m */; };
 		35791CDB171588890011FD1F /* APPViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35791CD9171588890011FD1F /* APPViewController.xib */; };
+		4CD59D5A198E488B00A8219B /* kawaii.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CD59D59198E488B00A8219B /* kawaii.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		35791CD6171588890011FD1F /* APPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = APPViewController.h; sourceTree = "<group>"; };
 		35791CD7171588890011FD1F /* APPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = APPViewController.m; sourceTree = "<group>"; };
 		35791CDA171588890011FD1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/APPViewController.xib; sourceTree = "<group>"; };
+		4CD59D59198E488B00A8219B /* kawaii.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kawaii.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				35791CD0171588890011FD1F /* Default.png */,
 				35791CD2171588890011FD1F /* Default@2x.png */,
 				35791CD4171588890011FD1F /* Default-568h@2x.png */,
+				4CD59D59198E488B00A8219B /* kawaii.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35791CC9171588890011FD1F /* InfoPlist.strings in Resources */,
+				4CD59D5A198E488B00A8219B /* kawaii.png in Resources */,
 				35791CD1171588890011FD1F /* Default.png in Resources */,
 				35791CD3171588890011FD1F /* Default@2x.png in Resources */,
 				35791CD5171588890011FD1F /* Default-568h@2x.png in Resources */,
@@ -272,7 +276,7 @@
 				GCC_PREFIX_HEADER = "CameraApp/CameraApp-Prefix.pch";
 				INFOPLIST_FILE = "CameraApp/CameraApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "098B0293-C31E-46A6-BA31-372DCC7A8CEA";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -286,7 +290,7 @@
 				GCC_PREFIX_HEADER = "CameraApp/CameraApp-Prefix.pch";
 				INFOPLIST_FILE = "CameraApp/CameraApp-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "098B0293-C31E-46A6-BA31-372DCC7A8CEA";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
