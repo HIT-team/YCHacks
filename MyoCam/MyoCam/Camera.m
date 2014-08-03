@@ -7,23 +7,28 @@
 //
 
 #import "Camera.h"
-#import "PhotoGrabber.h"
+#import "AVFoundation/AVCaptureDevice.h"
 
-@implementation Camera// first get a video channel from the sequence grabber
+@implementation Camera
 
-- (void)takePhoto
+-(void) addIOToTheSession
 {
-	PhotoGrabber *grabber = [[PhotoGrabber alloc] init];
-	grabber.delegate = self;
-	[grabber grabPhoto];
+    //init session
+    _session = [[AVCaptureSession alloc] init];
+    [_session setSessionPreset:AVCaptureSessionPresetPhoto];
+    
+    //add input
+    _input = [AVCaptureDevice defaultDeviceWithMediaType:AVMediaTypeVideo];
+    NSError *error = nil;
+    AVCaptureDeviceInput *vidInput = [AVCaptureDeviceInput deviceInputWithDevice:_input error:&error];
+    if (_input) {
+        [_session addInput:vidInput];
+    }
+    else {
+        NSLog(@"NO DEVICE RECORDING");
+    }
+    
+    //add output
 }
-
-- (void)photoGrabbed:(NSImage*)image
-{
-	// image is the image from the camera
-	// store it to a file or show, manipulate it, have fun
-}
-
-
 
 @end

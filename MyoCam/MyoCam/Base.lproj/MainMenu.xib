@@ -676,5 +676,9 @@
                 <autoresizingMask key="autoresizingMask"/>
             </view>
         </window>
+        <customView identifier="captureView" id="ATs-pd-DHW" customClass="QTCaptureView">
+            <rect key="frame" x="0.0" y="0.0" width="298" height="339"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+        </customView>
     </objects>
 </document>
