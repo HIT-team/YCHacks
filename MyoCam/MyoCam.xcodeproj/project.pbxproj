@@ -18,6 +18,10 @@
 		4C2C18A2198DA60F0059D94E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2C1881198DA60F0059D94E /* Cocoa.framework */; };
 		4C2C18AA198DA60F0059D94E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C2C18A8198DA60F0059D94E /* InfoPlist.strings */; };
 		4C2C18AC198DA60F0059D94E /* MyoCamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C18AB198DA60F0059D94E /* MyoCamTests.m */; };
+		4CD0FC9A198DAE7F00D1FA3D /* Camera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CD0FC99198DAE7F00D1FA3D /* Camera.m */; };
+		4CD0FC9C198DAF5300D1FA3D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD0FC9B198DAF5300D1FA3D /* AVFoundation.framework */; };
+		4CD0FCA0198DB5DA00D1FA3D /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CD0FC9F198DB5DA00D1FA3D /* QTKit.framework */; };
+		4CD0FCA3198DB67500D1FA3D /* PhotoGrabber.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CD0FCA2198DB67500D1FA3D /* PhotoGrabber.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +54,12 @@
 		4C2C18A7198DA60F0059D94E /* MyoCamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyoCamTests-Info.plist"; sourceTree = "<group>"; };
 		4C2C18A9198DA60F0059D94E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C2C18AB198DA60F0059D94E /* MyoCamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyoCamTests.m; sourceTree = "<group>"; };
+		4CD0FC98198DAE7F00D1FA3D /* Camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Camera.h; sourceTree = "<group>"; };
+		4CD0FC99198DAE7F00D1FA3D /* Camera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Camera.m; sourceTree = "<group>"; };
+		4CD0FC9B198DAF5300D1FA3D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		4CD0FC9F198DB5DA00D1FA3D /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = System/Library/Frameworks/QTKit.framework; sourceTree = SDKROOT; };
+		4CD0FCA1198DB67500D1FA3D /* PhotoGrabber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoGrabber.h; sourceTree = "<group>"; };
+		4CD0FCA2198DB67500D1FA3D /* PhotoGrabber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoGrabber.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CD0FCA0198DB5DA00D1FA3D /* QTKit.framework in Frameworks */,
+				4CD0FC9C198DAF5300D1FA3D /* AVFoundation.framework in Frameworks */,
 				4C2C1882198DA60F0059D94E /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -95,6 +107,8 @@
 		4C2C1880198DA60F0059D94E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4CD0FC9F198DB5DA00D1FA3D /* QTKit.framework */,
+				4CD0FC9B198DAF5300D1FA3D /* AVFoundation.framework */,
 				4C2C1881198DA60F0059D94E /* Cocoa.framework */,
 				4C2C18A0198DA60F0059D94E /* XCTest.framework */,
 				4C2C1883198DA60F0059D94E /* Other Frameworks */,
@@ -117,6 +131,10 @@
 			children = (
 				4C2C1893198DA60F0059D94E /* AppDelegate.h */,
 				4C2C1894198DA60F0059D94E /* AppDelegate.m */,
+				4CD0FCA1198DB67500D1FA3D /* PhotoGrabber.h */,
+				4CD0FCA2198DB67500D1FA3D /* PhotoGrabber.m */,
+				4CD0FC98198DAE7F00D1FA3D /* Camera.h */,
+				4CD0FC99198DAE7F00D1FA3D /* Camera.m */,
 				4C2C1896198DA60F0059D94E /* MainMenu.xib */,
 				4C2C1899198DA60F0059D94E /* Images.xcassets */,
 				4C2C1888198DA60F0059D94E /* Supporting Files */,
@@ -252,7 +270,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CD0FCA3198DB67500D1FA3D /* PhotoGrabber.m in Sources */,
 				4C2C1895198DA60F0059D94E /* AppDelegate.m in Sources */,
+				4CD0FC9A198DAE7F00D1FA3D /* Camera.m in Sources */,
 				4C2C188E198DA60F0059D94E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -466,6 +486,7 @@
 				4C2C18B1198DA60F0059D94E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C2C18B2198DA60F0059D94E /* Build configuration list for PBXNativeTarget "MyoCamTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +495,7 @@
 				4C2C18B4198DA60F0059D94E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

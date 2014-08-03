@@ -1,0 +1,164 @@
+TMyoCam
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch MyoCam/MyoCam-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000053A28647000000000000044C
+t1403160135
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053A2864700000000000001DE
+t1403160135
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053A286770000000000000ADC
+t1403160183
+s2780
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o
+t2
+s0
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch
+t1407023067
+s117056
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m
+c0000000053DD7648000000000000013F
+t1407022664
+s319
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m
+c0000000053DD76FF00000000000000AE
+t1407022847
+s174
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/MyoCam-Prefix.pch
+c0000000053DD6E8F00000000000000AC
+t1407020687
+s172
+
+N/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m
+c0000000053DD6E8F00000000000000EA
+t1407020687
+s234
+
+CBuild AST from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m
+r0
+
+CBuild AST from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m
+r0
+
+CBuild AST from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5324d357af8db941^1ccfe357af8db941^---0#1#1#--18"Check dependencies36"DFB8944F-AC3A-4E4B-8781-801E61C81D9A-
+
+CCompileAssetCatalog /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/MyoCam.app/Contents/Resources /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Images.xcassets
+r0
+
+CCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428715867.353863
+e428715867.599883
+r1
+xCompileC
+xData/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m199"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o MyoCam/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2bbd5a5baf8db941^718f995baf8db941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m0000000000000000^3291"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o MyoCam/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/MyoCam    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Prachi/Desktop/YCHacks/MyoCam/Data/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug -include /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/AppDelegate.m -o /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/AppDelegate.o36"400BB0AE-313C-4645-8F9F-EC3D55E0DD22-
+b042C44CD-94DC-4160-9B30-8C1078812CFF
+
+CCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428715867.354352
+e428715867.498438
+r0
+xCompileC
+xData/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o
+x/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.h
+oIn file included from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m:9:
+o/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.h:11:31: error: cannot find protocol declaration for 'AVCaptureVideoDataOutputSampleBufferDelegate'
+o@interface Camera : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
+o                              ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m189"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o MyoCam/Camera.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4ed45a5baf8db941^9f927f5baf8db941^-356"In file included from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m:9:/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.h:11:31: error: cannot find protocol declaration for 'AVCaptureVideoDataOutputSampleBufferDelegate'@interface Camera : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>                              ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@83"Cannot find protocol declaration for 'AVCaptureVideoDataOutputSampleBufferDelegate'-428715867#18446744073709551615#0#1(2@77"In file included from /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m:9:-428715867#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@59"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m0000000000000000^8#8#8#8#133#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@59"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.h0000000000000000^10#30#10#30#180#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@59"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m0000000000000000^3261"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o MyoCam/Camera.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/MyoCam    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Prachi/Desktop/YCHacks/MyoCam/Data/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug -include /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.dia -c /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Camera.m -o /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/Camera.o36"69510CE4-9E95-48C4-A01A-2977BCE20A73-
+b042C44CD-94DC-4160-9B30-8C1078812CFF
+
+CCompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428715867.354855
+e428715867.599874
+r1
+xCompileC
+xData/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o
+x/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m185"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o MyoCam/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler41f25a5baf8db941^ae9c995baf8db941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m0000000000000000^3249"CompileC Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o MyoCam/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/MyoCam    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Prachi/Desktop/YCHacks/MyoCam/Data/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug -include /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.dia -c /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/main.m -o /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/Objects-normal/x86_64/main.o36"FEBCFD0A-FCC0-41D0-89A1-41193FD8DC79-
+b042C44CD-94DC-4160-9B30-8C1078812CFF
+
+CCompileXIB /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/Base.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/MyoCam.app/Contents/Resources/en.lproj/InfoPlist.strings MyoCam/en.lproj/InfoPlist.strings
+r0
+
+CCpResource MyoCam/en.lproj/Credits.rtf Data/MyoCam/Build/Products/Debug/MyoCam.app/Contents/Resources/en.lproj/Credits.rtf
+r0
+
+CLd /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/MyoCam.app/Contents/MacOS/MyoCam normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/MyoCam.app/Contents/Info.plist /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/MyoCam-Info.plist
+r0
+
+CProcessPCH /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch MyoCam/MyoCam-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428715863.903324
+e428715867.352760
+r1
+xProcessPCH
+x/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch
+xMyoCam/MyoCam-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/MyoCam-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile MyoCam/MyoCam-Prefix.pch221"ProcessPCH Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch MyoCam/MyoCam-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdcbde857af8db941^5d515a5baf8db941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/MyoCam-Prefix.pch0000000000000000^3210"ProcessPCH Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch MyoCam/MyoCam-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Prachi/Desktop/YCHacks/MyoCam    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Prachi/Desktop/YCHacks/MyoCam/Data/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-generated-files.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-own-target-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-all-target-headers.hmap -iquote /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/MyoCam-project-headers.hmap -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources/x86_64 -I/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/MyoCam.build/Debug/MyoCam.build/DerivedSources -F/Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug --serialize-diagnostics /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.d -c /Users/Prachi/Desktop/YCHacks/MyoCam/MyoCam/MyoCam-Prefix.pch -o /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Intermediates/PrecompiledHeaders/MyoCam-Prefix-hafucyovyhsblveqvggmaggknjiw/MyoCam-Prefix.pch.pch36"3AFF9F4C-7E1E-4880-A3DD-6BD79B31E051-
+b042C44CD-94DC-4160-9B30-8C1078812CFF
+
+CProcessPCH /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Index/PrecompiledHeaders/MyoCam-Prefix-dhsbhqoetxhtdadmixkydbyqbifb_ast/MyoCam-Prefix.pch.pch MyoCam/MyoCam-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Prachi/Desktop/YCHacks/MyoCam/Data/MyoCam/Build/Products/Debug/MyoCam.app
+r0
+
